@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kiw8&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/kiw8"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **kiw8/kiw8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
