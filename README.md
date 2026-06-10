@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 </div>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiw8&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiw8&show_icons=true&theme=react)
