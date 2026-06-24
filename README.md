@@ -28,7 +28,7 @@
 <div align="center">
 <h2> 🧑‍💻 Contact me </h2>
 <br>
-<a href="https://kiw8.github.io/Jeongwoo-portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=GitHub&logoColor=white"></a>
+<a href="https://kiw8.github.io/Jeongwoo-portfolio/"><img src="https://img.shields.io/badge/Portfolio-4A6FA5?style=flat&logo=GitHub&logoColor=white"></a>
 <a href="mailto:dolmenari4@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"></a>
 <a href="https://www.notion.so/3769f28d7d8880b2b5f3eff2795e971a?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
 </div>
